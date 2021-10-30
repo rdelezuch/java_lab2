@@ -5,7 +5,7 @@ public class Main {
         /* cw.1 pętle while */
 
         /* zad 1 - Napisać za pomocą pętli do-while kod który będzie iterował od liczby 1000 w dół do 0.
-          Jeśli liczba będzie podzielna przez 2 ostatnie cyfry waszego indexu (podać nr indexu)
+          Jeśli liczba będzie podzielna przez 2 ostatnie cyfry waszego indeksu (podać nr indesu z uczelni)
           to dać komunikat "liczba XX podzielna przez YY" (XX-liczba podzielna YY-podzielnik)
         */
 
